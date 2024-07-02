@@ -1,0 +1,18 @@
+[build]
+    publish = "_site"
+
+[context.production]
+    command = "npm run production"
+
+#[[redirects]]
+#    from = "https://your-subdomain.netlify.app/*"
+#    to = "https://your-domain.com/:splat"
+#    status = 301
+#    force = true
+
+# A tremendously agressive 404
+#
+#[[redirects]]
+#    from = "*"
+#    to = "/"
+#    status = 404
