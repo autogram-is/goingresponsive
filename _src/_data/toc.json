@@ -1,86 +1,110 @@
 [
   {
-    "id": "navpoint14",
-    "playOrder": 14,
+    "id": "navpoint18",
+    "playOrder": 18,
     "navLabel": "Cover",
     "content": "cover.xhtml"
   },
   {
     "id": "navpoint1",
     "playOrder": 1,
-    "navLabel": "Introduction",
-    "content": "js4wd_ebook-4.xhtml"
+    "navLabel": "More From A Book Apart",
+    "content": "going-responsive-ebook.xhtml"
   },
   {
     "id": "navpoint2",
     "playOrder": 2,
-    "navLabel": "Chapter 1. Getting Set Up",
-    "content": "js4wd_ebook-5.xhtml"
+    "navLabel": "Foreword",
+    "content": "going-responsive-ebook-3.xhtml"
   },
   {
     "id": "navpoint3",
     "playOrder": 3,
-    "navLabel": "Chapter 2. Understanding Data Types",
-    "content": "js4wd_ebook-6.xhtml"
+    "navLabel": "Introduction",
+    "content": "going-responsive-ebook-4.xhtml"
   },
   {
     "id": "navpoint4",
     "playOrder": 4,
-    "navLabel": "Chapter 3. Conditional Statements",
-    "content": "js4wd_ebook-7.xhtml"
+    "navLabel": "Chapter 1: Make the Case",
+    "content": "going-responsive-ebook-5.xhtml"
   },
   {
     "id": "navpoint5",
     "playOrder": 5,
-    "navLabel": "Chapter 4. Loops",
-    "content": "js4wd_ebook-8.xhtml"
+    "navLabel": "Chapter 2: Plan Your Approach",
+    "content": "going-responsive-ebook-6.xhtml"
   },
   {
     "id": "navpoint6",
     "playOrder": 6,
-    "navLabel": "Chapter 5. DOM Scripting",
-    "content": "js4wd_ebook-9.xhtml"
+    "navLabel": "Chapter 3: Speed Up Your Site",
+    "content": "going-responsive-ebook-7.xhtml"
   },
   {
     "id": "navpoint7",
     "playOrder": 7,
-    "navLabel": "Conclusion",
-    "content": "js4wd_ebook-10.xhtml"
+    "navLabel": "Chapter 4: Clean Up Your Content",
+    "content": "going-responsive-ebook-8.xhtml"
   },
   {
     "id": "navpoint8",
     "playOrder": 8,
-    "navLabel": "Resources",
-    "content": "js4wd_ebook-11.xhtml"
+    "navLabel": "Chapter 5: Collaborate",
+    "content": "going-responsive-ebook-9.xhtml"
   },
   {
     "id": "navpoint9",
     "playOrder": 9,
-    "navLabel": "Acknowledgments",
-    "content": "js4wd_ebook-12.xhtml"
+    "navLabel": "Chapter 6: Test and Measure",
+    "content": "going-responsive-ebook-10.xhtml"
   },
   {
     "id": "navpoint10",
     "playOrder": 10,
-    "navLabel": "References",
-    "content": "js4wd_ebook-13.xhtml"
+    "navLabel": "Conclusion",
+    "content": "going-responsive-ebook-11.xhtml"
   },
   {
     "id": "navpoint11",
     "playOrder": 11,
-    "navLabel": "Index",
-    "content": "js4wd_ebook-14.xhtml"
+    "navLabel": "Glossary",
+    "content": "going-responsive-ebook-12.xhtml"
   },
   {
     "id": "navpoint12",
     "playOrder": 12,
-    "navLabel": "About the Author",
-    "content": "js4wd_ebook-15.xhtml"
+    "navLabel": "Resources",
+    "content": "going-responsive-ebook-13.xhtml"
   },
   {
     "id": "navpoint13",
     "playOrder": 13,
+    "navLabel": "Acknowledgements",
+    "content": "going-responsive-ebook-14.xhtml"
+  },
+  {
+    "id": "navpoint14",
+    "playOrder": 14,
+    "navLabel": "References",
+    "content": "going-responsive-ebook-15.xhtml"
+  },
+  {
+    "id": "navpoint15",
+    "playOrder": 15,
+    "navLabel": "Index",
+    "content": "going-responsive-ebook-16.xhtml"
+  },
+  {
+    "id": "navpoint16",
+    "playOrder": 16,
     "navLabel": "About A Book Apart",
-    "content": "js4wd_ebook-16.xhtml"
+    "content": "going-responsive-ebook-17.xhtml"
+  },
+  {
+    "id": "navpoint17",
+    "playOrder": 17,
+    "navLabel": "About the Author",
+    "content": "going-responsive-ebook-18.xhtml"
   }
 ]
