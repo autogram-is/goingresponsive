@@ -1,9 +1,9 @@
 ---
+headerImage: image/ch01.png
+chapterNumber: 2
 tocOrder: 4
 title: 'Chapter 1: Make the Case'
 ---
-![Chapter 1: Make the Case](image/ch01.png)
-
 “You’ve probably heard this before, but it really was a no-brainer to go responsive.”
 
 —SARAH THOMPSON, *Seventh* *Generation* ([http://bkaprt.com/gr/01-01/](http://bkaprt.com/gr/01-01/))

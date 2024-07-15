@@ -1,9 +1,9 @@
 ---
+headerImage: image/ch02.png
+chapterNumber: 3
 tocOrder: 5
 title: 'Chapter 2: Plan Your Approach'
 ---
-![Chapter 2: Plan Your Approach](image/ch02.png)
-
 “Stripping everything down to enable a simple and effective smartphone or tablet experience involves a level of strategic planning which many companies have not yet been able to master.”
 
 —ECONSULTANCY (IN ASSOCIATION WITH ADOBE), *“Finding the Path to Mobile Maturity**” (*[http://bkaprt.com/gr/02-01/](http://bkaprt.com/gr/02-01/)*,* *PDF)*

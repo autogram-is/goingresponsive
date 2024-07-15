@@ -1,9 +1,9 @@
 ---
+headerImage: image/ch06.png
+chapterNumber: 7
 tocOrder: 9
 title: 'Chapter 6: Test and Measure'
 ---
-![Chapter 6: Test and Measure](image/ch06.png)
-
 “Every one of these responsive products we’ve rolled out have performed better than the previous products. We’re actually very happy with it.”
 
 —BILL SCOTT, *PayPal (*[http://bkaprt.com/gr/01-52/](http://bkaprt.com/gr/01-52/)*)*

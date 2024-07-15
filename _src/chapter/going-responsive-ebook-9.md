@@ -1,9 +1,9 @@
 ---
+headerImage: image/ch05.png
+chapterNumber: 6
 tocOrder: 8
 title: 'Chapter 5: Collaborate'
 ---
-![Chapter 5: Collaborate](image/ch05.png)
-
 “Responsive is not a project. Responsive is a permanent new way of working.”
 
 —SCOTT KELTON JONES, *Expedia*

@@ -1,9 +1,10 @@
 backend:
-  name: git-gateway
+  name: github
   branch: netlify
+  repo: autogram-is/goingresponsive
 
-media_folder: '../_src/chapter/image'
-public_folder: 'image'
+media_folder: '_src/chapter/image/'
+public_folder: '/chapter/image'
 
 collections:
   - name: 'pages'
@@ -19,10 +20,10 @@ collections:
           - { label: 'Body', name: 'body', widget: 'markdown', required: false }
   - name: 'chapter'
     label: 'Chapters'
+    label_singular: 'Chapter'
     folder: '_src/chapter'
     create: true
     slug: 'index'
-    path: '{{title}}'
     editor:
       preview: false
     fields:

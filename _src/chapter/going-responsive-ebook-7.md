@@ -1,9 +1,9 @@
 ---
+headerImage: image/ch03.png
+chapterNumber: 4
 tocOrder: 6
 title: 'Chapter 3: Speed Up Your Site'
 ---
-![Chapter 3: Speed Up Your Site](image/ch03.png)
-
 “The company wasn’t merely doing a redesign, they were also starting down the path to a better culture of performance inside their organization.”
 
 —TIM KADLEC, *“‘RWD Is Bad for* *Performance’ Is Good for Performance” (*[http://bkaprt.com/gr/03-01/](http://bkaprt.com/gr/03-01/)*)*

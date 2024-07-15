@@ -1,9 +1,9 @@
 ---
+headerImage: image/ch04.png
+chapterNumber: 5
 tocOrder: 7
 title: 'Chapter 4: Clean Up Your Content'
 ---
-![Chapter 4: Clean Up Your Content](image/ch04.png)
-
 “The responsive design became a content solution and not just a technical solution to make the ongoing evolution of our digital products more robust.”
 
 —ALEX BREUER, *The Guardian (*[http://bkaprt.com/gr/02-08/](http://bkaprt.com/gr/02-08/)*)*
