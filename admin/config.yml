@@ -1,7 +1,6 @@
 backend:
-  name: github
-  repo: autogram-is/goingresponsive # Path to your GitHub repository
-  branch: netlify
+  name: git-gateway
+  branch: netlify # Branch to update (optional; defaults to master)
 
 media_folder: '_src/chapter/image/'
 public_folder: '/chapter/image'
