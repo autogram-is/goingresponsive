@@ -1,5 +1,5 @@
 ---
-tocOrder: 1
+tocOrder: 16
 title: More From A Book Apart
 ---
 ## MORE FROM A BOOK APART
@@ -7,10 +7,6 @@ title: More From A Book Apart
 **Responsive Design: Patterns &** **Principles**
 
 *Ethan* *Marcotte*
-
-**Designing for** **Touch**
-
-*Josh* *Clark*
 
 **Responsible Responsive** **Design**
 
