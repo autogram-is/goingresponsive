@@ -8,6 +8,6 @@ files.forEach( async ( filePath ) => {
 		root: '.',
 		data: '_src/_data',
 		chapters: '_src/chapter',
-		images: '_src/chapter/image',
+		images: '_src/chapter',
 	});
 });
