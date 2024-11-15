@@ -1,5 +1,5 @@
 ---
-tocOrder: 1
+tocOrder: 16
 title: More From A Book Apart
 ---
 ## MORE FROM A BOOK APART
