@@ -8,10 +8,6 @@ title: More From A Book Apart
 
 *Ethan* *Marcotte*
 
-**Designing for** **Touch**
-
-*Josh* *Clark*
-
 **Responsible Responsive** **Design**
 
 *Scott* *Jehl*
