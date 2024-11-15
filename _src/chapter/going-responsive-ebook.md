@@ -2,8 +2,6 @@
 tocOrder: 16
 title: More From Former A Book Apart Authors
 ---
-## MORE FROM FORMER A BOOK APART AUTHORS
-
 **Responsive Design: Patterns &** **Principles**
 
 *Ethan* *Marcotte*
