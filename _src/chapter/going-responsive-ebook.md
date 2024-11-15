@@ -1,8 +1,8 @@
 ---
 tocOrder: 16
-title: More From A Book Apart
+title: More From Former A Book Apart Authors
 ---
-## MORE FROM A BOOK APART
+## MORE FROM FORMER A BOOK APART AUTHORS
 
 **Responsive Design: Patterns &** **Principles**
 
