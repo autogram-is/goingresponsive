@@ -1,7 +1,7 @@
 backend:
   name: github
+  repo: autogram-is/goingresponsive # Path to your GitHub repository
   branch: netlify
-  repo: autogram-is/goingresponsive
 
 media_folder: '_src/chapter/image/'
 public_folder: '/chapter/image'
